@@ -1,4 +1,4 @@
-##In development
+## Indevelopment
 
-##Notes
+## Notes
 Migrating to bun and nodejs
